@@ -6,8 +6,8 @@
     module.exports = {
     	access_key: "####",
     	secret_key: "#####",
-    	domain: "#######",
-    	space: "####"
+    	domain: "#######", //空间域名 http://####
+    	space: "####" //空间名称
     }
 
 
